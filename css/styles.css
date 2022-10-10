@@ -249,9 +249,9 @@ body {
     margin-bottom: 50px;
 }
 
-/* .members-item{
+.members-item{
     padding-bottom: 30px;
-} */
+}
 
 .members-item:not(:last-child){
     width: 270px;
@@ -263,7 +263,6 @@ body {
 }
 .members-card{
     width: 270px;
-    height: 368px;
     background-color: #fff;
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;
@@ -296,8 +295,6 @@ body {
     color: var(--title-text-color);
 }
 .section-members-job{
-    padding-bottom: 30px;
-
     font-size: 16px;
     line-height: 1.9;
     text-align: center;
